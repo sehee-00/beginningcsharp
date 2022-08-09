@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\cbrref\bin\Debug\net6.0\cbrref.exe
+C:\Users\shkim\source\repos\Project2\cbrref\bin\Debug\net6.0\cbrref.deps.json
+C:\Users\shkim\source\repos\Project2\cbrref\bin\Debug\net6.0\cbrref.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\cbrref\bin\Debug\net6.0\cbrref.dll
+C:\Users\shkim\source\repos\Project2\cbrref\bin\Debug\net6.0\cbrref.pdb
+C:\Users\shkim\source\repos\Project2\cbrref\obj\Debug\net6.0\cbrref.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\cbrref\obj\Debug\net6.0\cbrref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\cbrref\obj\Debug\net6.0\cbrref.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\cbrref\obj\Debug\net6.0\cbrref.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\cbrref\obj\Debug\net6.0\cbrref.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\cbrref\obj\Debug\net6.0\cbrref.dll
+C:\Users\shkim\source\repos\Project2\cbrref\obj\Debug\net6.0\refint\cbrref.dll
+C:\Users\shkim\source\repos\Project2\cbrref\obj\Debug\net6.0\cbrref.pdb
+C:\Users\shkim\source\repos\Project2\cbrref\obj\Debug\net6.0\cbrref.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\cbrref\obj\Debug\net6.0\ref\cbrref.dll

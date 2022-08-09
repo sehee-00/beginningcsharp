@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\iToString\bin\Debug\net6.0\iToString.exe
+C:\Users\shkim\source\repos\Project2\iToString\bin\Debug\net6.0\iToString.deps.json
+C:\Users\shkim\source\repos\Project2\iToString\bin\Debug\net6.0\iToString.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\iToString\bin\Debug\net6.0\iToString.dll
+C:\Users\shkim\source\repos\Project2\iToString\bin\Debug\net6.0\iToString.pdb
+C:\Users\shkim\source\repos\Project2\iToString\obj\Debug\net6.0\iToString.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\iToString\obj\Debug\net6.0\iToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\iToString\obj\Debug\net6.0\iToString.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\iToString\obj\Debug\net6.0\iToString.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\iToString\obj\Debug\net6.0\iToString.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\iToString\obj\Debug\net6.0\iToString.dll
+C:\Users\shkim\source\repos\Project2\iToString\obj\Debug\net6.0\refint\iToString.dll
+C:\Users\shkim\source\repos\Project2\iToString\obj\Debug\net6.0\iToString.pdb
+C:\Users\shkim\source\repos\Project2\iToString\obj\Debug\net6.0\iToString.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\iToString\obj\Debug\net6.0\ref\iToString.dll

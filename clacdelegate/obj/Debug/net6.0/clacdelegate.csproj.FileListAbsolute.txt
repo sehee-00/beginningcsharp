@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\clacdelegate\bin\Debug\net6.0\clacdelegate.exe
+C:\Users\shkim\source\repos\Project2\clacdelegate\bin\Debug\net6.0\clacdelegate.deps.json
+C:\Users\shkim\source\repos\Project2\clacdelegate\bin\Debug\net6.0\clacdelegate.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\clacdelegate\bin\Debug\net6.0\clacdelegate.dll
+C:\Users\shkim\source\repos\Project2\clacdelegate\bin\Debug\net6.0\clacdelegate.pdb
+C:\Users\shkim\source\repos\Project2\clacdelegate\obj\Debug\net6.0\clacdelegate.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\clacdelegate\obj\Debug\net6.0\clacdelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\clacdelegate\obj\Debug\net6.0\clacdelegate.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\clacdelegate\obj\Debug\net6.0\clacdelegate.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\clacdelegate\obj\Debug\net6.0\clacdelegate.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\clacdelegate\obj\Debug\net6.0\clacdelegate.dll
+C:\Users\shkim\source\repos\Project2\clacdelegate\obj\Debug\net6.0\refint\clacdelegate.dll
+C:\Users\shkim\source\repos\Project2\clacdelegate\obj\Debug\net6.0\clacdelegate.pdb
+C:\Users\shkim\source\repos\Project2\clacdelegate\obj\Debug\net6.0\clacdelegate.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\clacdelegate\obj\Debug\net6.0\ref\clacdelegate.dll

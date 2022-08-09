@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\operatoroverrode\obj\Debug\net6.0\operatoroverrode.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\operatoroverrode\obj\Debug\net6.0\operatoroverrode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\operatoroverrode\obj\Debug\net6.0\operatoroverrode.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\operatoroverrode\obj\Debug\net6.0\operatoroverrode.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\operatoroverrode\obj\Debug\net6.0\operatoroverrode.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\operatoroverrode\bin\Debug\net6.0\operatoroverrode.exe
+C:\Users\shkim\source\repos\Project2\operatoroverrode\bin\Debug\net6.0\operatoroverrode.deps.json
+C:\Users\shkim\source\repos\Project2\operatoroverrode\bin\Debug\net6.0\operatoroverrode.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\operatoroverrode\bin\Debug\net6.0\operatoroverrode.dll
+C:\Users\shkim\source\repos\Project2\operatoroverrode\bin\Debug\net6.0\operatoroverrode.pdb
+C:\Users\shkim\source\repos\Project2\operatoroverrode\obj\Debug\net6.0\operatoroverrode.dll
+C:\Users\shkim\source\repos\Project2\operatoroverrode\obj\Debug\net6.0\refint\operatoroverrode.dll
+C:\Users\shkim\source\repos\Project2\operatoroverrode\obj\Debug\net6.0\operatoroverrode.pdb
+C:\Users\shkim\source\repos\Project2\operatoroverrode\obj\Debug\net6.0\operatoroverrode.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\operatoroverrode\obj\Debug\net6.0\ref\operatoroverrode.dll

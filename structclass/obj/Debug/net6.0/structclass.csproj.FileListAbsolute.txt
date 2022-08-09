@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\structclass\obj\Debug\net6.0\structclass.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\structclass\obj\Debug\net6.0\structclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\structclass\obj\Debug\net6.0\structclass.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\structclass\obj\Debug\net6.0\structclass.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\structclass\obj\Debug\net6.0\structclass.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\structclass\bin\Debug\net6.0\structclass.exe
+C:\Users\shkim\source\repos\Project2\structclass\bin\Debug\net6.0\structclass.deps.json
+C:\Users\shkim\source\repos\Project2\structclass\bin\Debug\net6.0\structclass.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\structclass\bin\Debug\net6.0\structclass.dll
+C:\Users\shkim\source\repos\Project2\structclass\bin\Debug\net6.0\structclass.pdb
+C:\Users\shkim\source\repos\Project2\structclass\obj\Debug\net6.0\structclass.dll
+C:\Users\shkim\source\repos\Project2\structclass\obj\Debug\net6.0\refint\structclass.dll
+C:\Users\shkim\source\repos\Project2\structclass\obj\Debug\net6.0\structclass.pdb
+C:\Users\shkim\source\repos\Project2\structclass\obj\Debug\net6.0\structclass.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\structclass\obj\Debug\net6.0\ref\structclass.dll

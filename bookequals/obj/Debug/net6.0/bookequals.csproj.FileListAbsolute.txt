@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\bookequals\obj\Debug\net6.0\bookequals.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\bookequals\obj\Debug\net6.0\bookequals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\bookequals\obj\Debug\net6.0\bookequals.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\bookequals\obj\Debug\net6.0\bookequals.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\bookequals\obj\Debug\net6.0\bookequals.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\bookequals\bin\Debug\net6.0\bookequals.exe
+C:\Users\shkim\source\repos\Project2\bookequals\bin\Debug\net6.0\bookequals.deps.json
+C:\Users\shkim\source\repos\Project2\bookequals\bin\Debug\net6.0\bookequals.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\bookequals\bin\Debug\net6.0\bookequals.dll
+C:\Users\shkim\source\repos\Project2\bookequals\bin\Debug\net6.0\bookequals.pdb
+C:\Users\shkim\source\repos\Project2\bookequals\obj\Debug\net6.0\bookequals.dll
+C:\Users\shkim\source\repos\Project2\bookequals\obj\Debug\net6.0\refint\bookequals.dll
+C:\Users\shkim\source\repos\Project2\bookequals\obj\Debug\net6.0\bookequals.pdb
+C:\Users\shkim\source\repos\Project2\bookequals\obj\Debug\net6.0\bookequals.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\bookequals\obj\Debug\net6.0\ref\bookequals.dll

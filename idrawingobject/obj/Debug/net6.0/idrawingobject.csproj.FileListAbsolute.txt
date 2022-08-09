@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\idrawingobject\bin\Debug\net6.0\idrawingobject.exe
+C:\Users\shkim\source\repos\Project2\idrawingobject\bin\Debug\net6.0\idrawingobject.deps.json
+C:\Users\shkim\source\repos\Project2\idrawingobject\bin\Debug\net6.0\idrawingobject.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\idrawingobject\bin\Debug\net6.0\idrawingobject.dll
+C:\Users\shkim\source\repos\Project2\idrawingobject\bin\Debug\net6.0\idrawingobject.pdb
+C:\Users\shkim\source\repos\Project2\idrawingobject\obj\Debug\net6.0\idrawingobject.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\idrawingobject\obj\Debug\net6.0\idrawingobject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\idrawingobject\obj\Debug\net6.0\idrawingobject.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\idrawingobject\obj\Debug\net6.0\idrawingobject.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\idrawingobject\obj\Debug\net6.0\idrawingobject.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\idrawingobject\obj\Debug\net6.0\idrawingobject.dll
+C:\Users\shkim\source\repos\Project2\idrawingobject\obj\Debug\net6.0\refint\idrawingobject.dll
+C:\Users\shkim\source\repos\Project2\idrawingobject\obj\Debug\net6.0\idrawingobject.pdb
+C:\Users\shkim\source\repos\Project2\idrawingobject\obj\Debug\net6.0\idrawingobject.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\idrawingobject\obj\Debug\net6.0\ref\idrawingobject.dll

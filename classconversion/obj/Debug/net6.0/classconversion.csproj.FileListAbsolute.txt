@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\classconversion\obj\Debug\net6.0\classconversion.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\classconversion\obj\Debug\net6.0\classconversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\classconversion\obj\Debug\net6.0\classconversion.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\classconversion\obj\Debug\net6.0\classconversion.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\classconversion\obj\Debug\net6.0\classconversion.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\classconversion\bin\Debug\net6.0\classconversion.exe
+C:\Users\shkim\source\repos\Project2\classconversion\bin\Debug\net6.0\classconversion.deps.json
+C:\Users\shkim\source\repos\Project2\classconversion\bin\Debug\net6.0\classconversion.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\classconversion\bin\Debug\net6.0\classconversion.dll
+C:\Users\shkim\source\repos\Project2\classconversion\bin\Debug\net6.0\classconversion.pdb
+C:\Users\shkim\source\repos\Project2\classconversion\obj\Debug\net6.0\classconversion.dll
+C:\Users\shkim\source\repos\Project2\classconversion\obj\Debug\net6.0\refint\classconversion.dll
+C:\Users\shkim\source\repos\Project2\classconversion\obj\Debug\net6.0\classconversion.pdb
+C:\Users\shkim\source\repos\Project2\classconversion\obj\Debug\net6.0\classconversion.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\classconversion\obj\Debug\net6.0\ref\classconversion.dll

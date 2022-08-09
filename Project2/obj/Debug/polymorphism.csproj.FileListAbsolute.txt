@@ -1,0 +1,8 @@
+C:\Users\shkim\source\repos\Project2\Project2\obj\Debug\polymorphism.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\Project2\obj\Debug\polymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\shkim\source\repos\Project2\Project2\obj\Debug\polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\shkim\source\repos\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\shkim\source\repos\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\shkim\source\repos\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\shkim\source\repos\Project2\Project2\obj\Debug\Project2.pdb

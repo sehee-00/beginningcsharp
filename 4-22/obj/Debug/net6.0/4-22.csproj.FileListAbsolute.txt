@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\4-22\bin\Debug\net6.0\4-22.exe
+C:\Users\shkim\source\repos\Project2\4-22\bin\Debug\net6.0\4-22.deps.json
+C:\Users\shkim\source\repos\Project2\4-22\bin\Debug\net6.0\4-22.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\4-22\bin\Debug\net6.0\4-22.dll
+C:\Users\shkim\source\repos\Project2\4-22\bin\Debug\net6.0\4-22.pdb
+C:\Users\shkim\source\repos\Project2\4-22\obj\Debug\net6.0\4-22.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\4-22\obj\Debug\net6.0\4-22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\4-22\obj\Debug\net6.0\4-22.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\4-22\obj\Debug\net6.0\4-22.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\4-22\obj\Debug\net6.0\4-22.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\4-22\obj\Debug\net6.0\4-22.dll
+C:\Users\shkim\source\repos\Project2\4-22\obj\Debug\net6.0\refint\4-22.dll
+C:\Users\shkim\source\repos\Project2\4-22\obj\Debug\net6.0\4-22.pdb
+C:\Users\shkim\source\repos\Project2\4-22\obj\Debug\net6.0\4-22.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\4-22\obj\Debug\net6.0\ref\4-22.dll

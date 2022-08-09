@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\mathodoverrode\bin\Debug\net6.0\mathodoverrode.exe
+C:\Users\shkim\source\repos\Project2\mathodoverrode\bin\Debug\net6.0\mathodoverrode.deps.json
+C:\Users\shkim\source\repos\Project2\mathodoverrode\bin\Debug\net6.0\mathodoverrode.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\mathodoverrode\bin\Debug\net6.0\mathodoverrode.dll
+C:\Users\shkim\source\repos\Project2\mathodoverrode\bin\Debug\net6.0\mathodoverrode.pdb
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\mathodoverrode.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\mathodoverrode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\mathodoverrode.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\mathodoverrode.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\mathodoverrode.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\mathodoverrode.dll
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\refint\mathodoverrode.dll
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\mathodoverrode.pdb
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\mathodoverrode.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\ref\mathodoverrode.dll

@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\DrawingObject\obj\Debug\net6.0\DrawingObject.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\DrawingObject\obj\Debug\net6.0\DrawingObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\DrawingObject\obj\Debug\net6.0\DrawingObject.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\DrawingObject\obj\Debug\net6.0\DrawingObject.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\DrawingObject\obj\Debug\net6.0\DrawingObject.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\DrawingObject\bin\Debug\net6.0\DrawingObject.exe
+C:\Users\shkim\source\repos\Project2\DrawingObject\bin\Debug\net6.0\DrawingObject.deps.json
+C:\Users\shkim\source\repos\Project2\DrawingObject\bin\Debug\net6.0\DrawingObject.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\DrawingObject\bin\Debug\net6.0\DrawingObject.dll
+C:\Users\shkim\source\repos\Project2\DrawingObject\bin\Debug\net6.0\DrawingObject.pdb
+C:\Users\shkim\source\repos\Project2\DrawingObject\obj\Debug\net6.0\DrawingObject.dll
+C:\Users\shkim\source\repos\Project2\DrawingObject\obj\Debug\net6.0\refint\DrawingObject.dll
+C:\Users\shkim\source\repos\Project2\DrawingObject\obj\Debug\net6.0\DrawingObject.pdb
+C:\Users\shkim\source\repos\Project2\DrawingObject\obj\Debug\net6.0\DrawingObject.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\DrawingObject\obj\Debug\net6.0\ref\DrawingObject.dll

@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\ienumerable\bin\Debug\net6.0\4-25.exe
+C:\Users\shkim\source\repos\Project2\ienumerable\bin\Debug\net6.0\4-25.deps.json
+C:\Users\shkim\source\repos\Project2\ienumerable\bin\Debug\net6.0\4-25.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\ienumerable\bin\Debug\net6.0\4-25.dll
+C:\Users\shkim\source\repos\Project2\ienumerable\bin\Debug\net6.0\4-25.pdb
+C:\Users\shkim\source\repos\Project2\ienumerable\obj\Debug\net6.0\4-25.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\ienumerable\obj\Debug\net6.0\4-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\ienumerable\obj\Debug\net6.0\4-25.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\ienumerable\obj\Debug\net6.0\4-25.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\ienumerable\obj\Debug\net6.0\4-25.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\ienumerable\obj\Debug\net6.0\4-25.dll
+C:\Users\shkim\source\repos\Project2\ienumerable\obj\Debug\net6.0\refint\4-25.dll
+C:\Users\shkim\source\repos\Project2\ienumerable\obj\Debug\net6.0\4-25.pdb
+C:\Users\shkim\source\repos\Project2\ienumerable\obj\Debug\net6.0\4-25.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\ienumerable\obj\Debug\net6.0\ref\4-25.dll

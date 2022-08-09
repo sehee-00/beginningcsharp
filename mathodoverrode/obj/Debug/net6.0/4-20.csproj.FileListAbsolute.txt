@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\mathodoverrode\bin\Debug\net6.0\4-20.exe
+C:\Users\shkim\source\repos\Project2\mathodoverrode\bin\Debug\net6.0\4-20.deps.json
+C:\Users\shkim\source\repos\Project2\mathodoverrode\bin\Debug\net6.0\4-20.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\mathodoverrode\bin\Debug\net6.0\4-20.dll
+C:\Users\shkim\source\repos\Project2\mathodoverrode\bin\Debug\net6.0\4-20.pdb
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\4-20.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\4-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\4-20.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\4-20.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\4-20.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\4-20.dll
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\refint\4-20.dll
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\4-20.pdb
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\4-20.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\mathodoverrode\obj\Debug\net6.0\ref\4-20.dll

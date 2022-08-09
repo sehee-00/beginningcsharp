@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\usingdelegate\obj\Debug\net6.0\usingdelegate.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\usingdelegate\obj\Debug\net6.0\usingdelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\usingdelegate\obj\Debug\net6.0\usingdelegate.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\usingdelegate\obj\Debug\net6.0\usingdelegate.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\usingdelegate\obj\Debug\net6.0\usingdelegate.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\usingdelegate\bin\Debug\net6.0\usingdelegate.exe
+C:\Users\shkim\source\repos\Project2\usingdelegate\bin\Debug\net6.0\usingdelegate.deps.json
+C:\Users\shkim\source\repos\Project2\usingdelegate\bin\Debug\net6.0\usingdelegate.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\usingdelegate\bin\Debug\net6.0\usingdelegate.dll
+C:\Users\shkim\source\repos\Project2\usingdelegate\bin\Debug\net6.0\usingdelegate.pdb
+C:\Users\shkim\source\repos\Project2\usingdelegate\obj\Debug\net6.0\usingdelegate.dll
+C:\Users\shkim\source\repos\Project2\usingdelegate\obj\Debug\net6.0\refint\usingdelegate.dll
+C:\Users\shkim\source\repos\Project2\usingdelegate\obj\Debug\net6.0\usingdelegate.pdb
+C:\Users\shkim\source\repos\Project2\usingdelegate\obj\Debug\net6.0\usingdelegate.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\usingdelegate\obj\Debug\net6.0\ref\usingdelegate.dll

@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\callback\obj\Debug\net6.0\callback.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\callback\obj\Debug\net6.0\callback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\callback\obj\Debug\net6.0\callback.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\callback\obj\Debug\net6.0\callback.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\callback\obj\Debug\net6.0\callback.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\callback\bin\Debug\net6.0\callback.exe
+C:\Users\shkim\source\repos\Project2\callback\bin\Debug\net6.0\callback.deps.json
+C:\Users\shkim\source\repos\Project2\callback\bin\Debug\net6.0\callback.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\callback\bin\Debug\net6.0\callback.dll
+C:\Users\shkim\source\repos\Project2\callback\bin\Debug\net6.0\callback.pdb
+C:\Users\shkim\source\repos\Project2\callback\obj\Debug\net6.0\callback.dll
+C:\Users\shkim\source\repos\Project2\callback\obj\Debug\net6.0\refint\callback.dll
+C:\Users\shkim\source\repos\Project2\callback\obj\Debug\net6.0\callback.pdb
+C:\Users\shkim\source\repos\Project2\callback\obj\Debug\net6.0\callback.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\callback\obj\Debug\net6.0\ref\callback.dll

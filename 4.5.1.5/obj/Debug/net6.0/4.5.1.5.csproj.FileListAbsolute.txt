@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\4.5.1.5\bin\Debug\net6.0\4.5.1.5.exe
+C:\Users\shkim\source\repos\Project2\4.5.1.5\bin\Debug\net6.0\4.5.1.5.deps.json
+C:\Users\shkim\source\repos\Project2\4.5.1.5\bin\Debug\net6.0\4.5.1.5.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\4.5.1.5\bin\Debug\net6.0\4.5.1.5.dll
+C:\Users\shkim\source\repos\Project2\4.5.1.5\bin\Debug\net6.0\4.5.1.5.pdb
+C:\Users\shkim\source\repos\Project2\4.5.1.5\obj\Debug\net6.0\4.5.1.5.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\4.5.1.5\obj\Debug\net6.0\4.5.1.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\4.5.1.5\obj\Debug\net6.0\4.5.1.5.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\4.5.1.5\obj\Debug\net6.0\4.5.1.5.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\4.5.1.5\obj\Debug\net6.0\4.5.1.5.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\4.5.1.5\obj\Debug\net6.0\4.5.1.5.dll
+C:\Users\shkim\source\repos\Project2\4.5.1.5\obj\Debug\net6.0\refint\4.5.1.5.dll
+C:\Users\shkim\source\repos\Project2\4.5.1.5\obj\Debug\net6.0\4.5.1.5.pdb
+C:\Users\shkim\source\repos\Project2\4.5.1.5\obj\Debug\net6.0\4.5.1.5.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\4.5.1.5\obj\Debug\net6.0\ref\4.5.1.5.dll

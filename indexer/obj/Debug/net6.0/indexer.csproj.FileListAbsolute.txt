@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\indexer\bin\Debug\net6.0\indexer.exe
+C:\Users\shkim\source\repos\Project2\indexer\bin\Debug\net6.0\indexer.deps.json
+C:\Users\shkim\source\repos\Project2\indexer\bin\Debug\net6.0\indexer.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\indexer\bin\Debug\net6.0\indexer.dll
+C:\Users\shkim\source\repos\Project2\indexer\bin\Debug\net6.0\indexer.pdb
+C:\Users\shkim\source\repos\Project2\indexer\obj\Debug\net6.0\indexer.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\indexer\obj\Debug\net6.0\indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\indexer\obj\Debug\net6.0\indexer.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\indexer\obj\Debug\net6.0\indexer.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\indexer\obj\Debug\net6.0\indexer.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\indexer\obj\Debug\net6.0\indexer.dll
+C:\Users\shkim\source\repos\Project2\indexer\obj\Debug\net6.0\refint\indexer.dll
+C:\Users\shkim\source\repos\Project2\indexer\obj\Debug\net6.0\indexer.pdb
+C:\Users\shkim\source\repos\Project2\indexer\obj\Debug\net6.0\indexer.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\indexer\obj\Debug\net6.0\ref\indexer.dll

@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\PrimeNumD\bin\Debug\net6.0\PrimeNumD.exe
+C:\Users\shkim\source\repos\Project2\PrimeNumD\bin\Debug\net6.0\PrimeNumD.deps.json
+C:\Users\shkim\source\repos\Project2\PrimeNumD\bin\Debug\net6.0\PrimeNumD.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\PrimeNumD\bin\Debug\net6.0\PrimeNumD.dll
+C:\Users\shkim\source\repos\Project2\PrimeNumD\bin\Debug\net6.0\PrimeNumD.pdb
+C:\Users\shkim\source\repos\Project2\PrimeNumD\obj\Debug\net6.0\PrimeNumD.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\PrimeNumD\obj\Debug\net6.0\PrimeNumD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\PrimeNumD\obj\Debug\net6.0\PrimeNumD.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\PrimeNumD\obj\Debug\net6.0\PrimeNumD.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\PrimeNumD\obj\Debug\net6.0\PrimeNumD.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\PrimeNumD\obj\Debug\net6.0\PrimeNumD.dll
+C:\Users\shkim\source\repos\Project2\PrimeNumD\obj\Debug\net6.0\refint\PrimeNumD.dll
+C:\Users\shkim\source\repos\Project2\PrimeNumD\obj\Debug\net6.0\PrimeNumD.pdb
+C:\Users\shkim\source\repos\Project2\PrimeNumD\obj\Debug\net6.0\PrimeNumD.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\PrimeNumD\obj\Debug\net6.0\ref\PrimeNumD.dll

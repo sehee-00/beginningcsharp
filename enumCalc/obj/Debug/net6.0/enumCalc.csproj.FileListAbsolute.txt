@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\enumCalc\bin\Debug\net6.0\enumCalc.exe
+C:\Users\shkim\source\repos\Project2\enumCalc\bin\Debug\net6.0\enumCalc.deps.json
+C:\Users\shkim\source\repos\Project2\enumCalc\bin\Debug\net6.0\enumCalc.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\enumCalc\bin\Debug\net6.0\enumCalc.dll
+C:\Users\shkim\source\repos\Project2\enumCalc\bin\Debug\net6.0\enumCalc.pdb
+C:\Users\shkim\source\repos\Project2\enumCalc\obj\Debug\net6.0\enumCalc.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\enumCalc\obj\Debug\net6.0\enumCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\enumCalc\obj\Debug\net6.0\enumCalc.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\enumCalc\obj\Debug\net6.0\enumCalc.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\enumCalc\obj\Debug\net6.0\enumCalc.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\enumCalc\obj\Debug\net6.0\enumCalc.dll
+C:\Users\shkim\source\repos\Project2\enumCalc\obj\Debug\net6.0\refint\enumCalc.dll
+C:\Users\shkim\source\repos\Project2\enumCalc\obj\Debug\net6.0\enumCalc.pdb
+C:\Users\shkim\source\repos\Project2\enumCalc\obj\Debug\net6.0\enumCalc.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\enumCalc\obj\Debug\net6.0\ref\enumCalc.dll

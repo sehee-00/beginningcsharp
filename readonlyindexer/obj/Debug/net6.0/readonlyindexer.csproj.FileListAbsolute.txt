@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\readonlyindexer\bin\Debug\net6.0\readonlyindexer.exe
+C:\Users\shkim\source\repos\Project2\readonlyindexer\bin\Debug\net6.0\readonlyindexer.deps.json
+C:\Users\shkim\source\repos\Project2\readonlyindexer\bin\Debug\net6.0\readonlyindexer.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\readonlyindexer\bin\Debug\net6.0\readonlyindexer.dll
+C:\Users\shkim\source\repos\Project2\readonlyindexer\bin\Debug\net6.0\readonlyindexer.pdb
+C:\Users\shkim\source\repos\Project2\readonlyindexer\obj\Debug\net6.0\readonlyindexer.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\readonlyindexer\obj\Debug\net6.0\readonlyindexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\readonlyindexer\obj\Debug\net6.0\readonlyindexer.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\readonlyindexer\obj\Debug\net6.0\readonlyindexer.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\readonlyindexer\obj\Debug\net6.0\readonlyindexer.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\readonlyindexer\obj\Debug\net6.0\readonlyindexer.dll
+C:\Users\shkim\source\repos\Project2\readonlyindexer\obj\Debug\net6.0\refint\readonlyindexer.dll
+C:\Users\shkim\source\repos\Project2\readonlyindexer\obj\Debug\net6.0\readonlyindexer.pdb
+C:\Users\shkim\source\repos\Project2\readonlyindexer\obj\Debug\net6.0\readonlyindexer.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\readonlyindexer\obj\Debug\net6.0\ref\readonlyindexer.dll

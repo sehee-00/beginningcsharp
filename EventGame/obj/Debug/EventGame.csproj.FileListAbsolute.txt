@@ -1,0 +1,11 @@
+C:\Users\shkim\source\repos\Project2\EventGame\bin\Debug\EventGame.exe.config
+C:\Users\shkim\source\repos\Project2\EventGame\bin\Debug\EventGame.exe
+C:\Users\shkim\source\repos\Project2\EventGame\bin\Debug\EventGame.pdb
+C:\Users\shkim\source\repos\Project2\EventGame\obj\Debug\EventGame.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\EventGame\obj\Debug\EventGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\shkim\source\repos\Project2\EventGame\obj\Debug\EventGame.Form1.resources
+C:\Users\shkim\source\repos\Project2\EventGame\obj\Debug\EventGame.Properties.Resources.resources
+C:\Users\shkim\source\repos\Project2\EventGame\obj\Debug\EventGame.csproj.GenerateResource.cache
+C:\Users\shkim\source\repos\Project2\EventGame\obj\Debug\EventGame.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\EventGame\obj\Debug\EventGame.exe
+C:\Users\shkim\source\repos\Project2\EventGame\obj\Debug\EventGame.pdb

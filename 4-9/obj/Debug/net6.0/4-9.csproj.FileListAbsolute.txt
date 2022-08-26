@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\4-9\bin\Debug\net6.0\4-9.exe
+C:\Users\shkim\source\repos\Project2\4-9\bin\Debug\net6.0\4-9.deps.json
+C:\Users\shkim\source\repos\Project2\4-9\bin\Debug\net6.0\4-9.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\4-9\bin\Debug\net6.0\4-9.dll
+C:\Users\shkim\source\repos\Project2\4-9\bin\Debug\net6.0\4-9.pdb
+C:\Users\shkim\source\repos\Project2\4-9\obj\Debug\net6.0\4-9.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\4-9\obj\Debug\net6.0\4-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\4-9\obj\Debug\net6.0\4-9.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\4-9\obj\Debug\net6.0\4-9.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\4-9\obj\Debug\net6.0\4-9.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\4-9\obj\Debug\net6.0\4-9.dll
+C:\Users\shkim\source\repos\Project2\4-9\obj\Debug\net6.0\refint\4-9.dll
+C:\Users\shkim\source\repos\Project2\4-9\obj\Debug\net6.0\4-9.pdb
+C:\Users\shkim\source\repos\Project2\4-9\obj\Debug\net6.0\4-9.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\4-9\obj\Debug\net6.0\ref\4-9.dll

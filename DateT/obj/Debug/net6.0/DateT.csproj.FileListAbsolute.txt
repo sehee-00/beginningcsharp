@@ -1,0 +1,15 @@
+C:\Users\shkim\source\repos\Project2\DateT\bin\Debug\net6.0\DateT.exe
+C:\Users\shkim\source\repos\Project2\DateT\bin\Debug\net6.0\DateT.deps.json
+C:\Users\shkim\source\repos\Project2\DateT\bin\Debug\net6.0\DateT.runtimeconfig.json
+C:\Users\shkim\source\repos\Project2\DateT\bin\Debug\net6.0\DateT.dll
+C:\Users\shkim\source\repos\Project2\DateT\bin\Debug\net6.0\DateT.pdb
+C:\Users\shkim\source\repos\Project2\DateT\obj\Debug\net6.0\DateT.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\DateT\obj\Debug\net6.0\DateT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkim\source\repos\Project2\DateT\obj\Debug\net6.0\DateT.AssemblyInfoInputs.cache
+C:\Users\shkim\source\repos\Project2\DateT\obj\Debug\net6.0\DateT.AssemblyInfo.cs
+C:\Users\shkim\source\repos\Project2\DateT\obj\Debug\net6.0\DateT.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\DateT\obj\Debug\net6.0\DateT.dll
+C:\Users\shkim\source\repos\Project2\DateT\obj\Debug\net6.0\refint\DateT.dll
+C:\Users\shkim\source\repos\Project2\DateT\obj\Debug\net6.0\DateT.pdb
+C:\Users\shkim\source\repos\Project2\DateT\obj\Debug\net6.0\DateT.genruntimeconfig.cache
+C:\Users\shkim\source\repos\Project2\DateT\obj\Debug\net6.0\ref\DateT.dll

@@ -20,7 +20,8 @@ namespace PrimeNumE
     //소수 생성기 : 소수가 발생할 때마다 등록된 콜백 메서드를 호출
     class PrimeGenerator
     {
-        
+        public delegate void ClickHandler(int x, int y);
+        public event ClickHandler Click;
         public event EventHandler PrimeGenerated;
 
         //주어진 수까지 루프를 돌면서 소수가 발견되면 콜백 메서드 호출

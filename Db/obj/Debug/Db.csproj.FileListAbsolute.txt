@@ -1,0 +1,11 @@
+C:\Users\shkim\source\repos\Project2\Db\bin\Debug\Db.exe.config
+C:\Users\shkim\source\repos\Project2\Db\bin\Debug\Db.exe
+C:\Users\shkim\source\repos\Project2\Db\bin\Debug\Db.pdb
+C:\Users\shkim\source\repos\Project2\Db\obj\Debug\Db.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\Db\obj\Debug\Db.csproj.SuggestedBindingRedirects.cache
+C:\Users\shkim\source\repos\Project2\Db\obj\Debug\Db.Form1.resources
+C:\Users\shkim\source\repos\Project2\Db\obj\Debug\Db.Properties.Resources.resources
+C:\Users\shkim\source\repos\Project2\Db\obj\Debug\Db.csproj.GenerateResource.cache
+C:\Users\shkim\source\repos\Project2\Db\obj\Debug\Db.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\Db\obj\Debug\Db.exe
+C:\Users\shkim\source\repos\Project2\Db\obj\Debug\Db.pdb

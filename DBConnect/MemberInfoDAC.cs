@@ -24,7 +24,7 @@ namespace DBConnect
             SqlParameter paramBirth = new SqlParameter("Birth", SqlDbType.Date);
             paramBirth.Value = item.Birth;
 
-            SqlParameter paramEmail = new SqlParameter("Email", SqlDbType.NVarChar, 100);
+            SqlParameter paramEmail = new   SqlParameter("Email", SqlDbType.NVarChar, 100);
             paramEmail.Value = item.Email;
 
             SqlParameter paramFamily = new SqlParameter("Family", SqlDbType.TinyInt);
@@ -49,6 +49,7 @@ namespace DBConnect
         {
             string txt = "UPDATE MemberInfo SET Name = @Name, Birth=@Birth, Family = @Family WHERE Email=@Email";
             SqlCommand cmd = new SqlCommand(txt, _sqlCon);
+            FillParameters(cmd, item);
             cmd.ExecuteNonQuery();
         }
 
@@ -56,6 +57,7 @@ namespace DBConnect
         {
             string txt = "DELETE FROM MemberInfo WHERE Email = @Email";
             SqlCommand cmd = new SqlCommand(txt, _sqlCon);
+            FillParameters(cmd, item);
             cmd.ExecuteNonQuery();
         }
 

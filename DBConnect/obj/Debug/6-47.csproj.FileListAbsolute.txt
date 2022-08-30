@@ -1,0 +1,10 @@
+C:\Users\shkim\source\repos\Project2\DBConnect\bin\Debug\DBConnect.exe.config
+C:\Users\shkim\source\repos\Project2\DBConnect\bin\Debug\DBConnect.exe
+C:\Users\shkim\source\repos\Project2\DBConnect\bin\Debug\DBConnect.pdb
+C:\Users\shkim\source\repos\Project2\DBConnect\obj\Debug\6-47.csproj.AssemblyReference.cache
+C:\Users\shkim\source\repos\Project2\DBConnect\obj\Debug\6-47.csproj.SuggestedBindingRedirects.cache
+C:\Users\shkim\source\repos\Project2\DBConnect\obj\Debug\DBConnect.Properties.Resources.resources
+C:\Users\shkim\source\repos\Project2\DBConnect\obj\Debug\6-47.csproj.GenerateResource.cache
+C:\Users\shkim\source\repos\Project2\DBConnect\obj\Debug\6-47.csproj.CoreCompileInputs.cache
+C:\Users\shkim\source\repos\Project2\DBConnect\obj\Debug\DBConnect.exe
+C:\Users\shkim\source\repos\Project2\DBConnect\obj\Debug\DBConnect.pdb

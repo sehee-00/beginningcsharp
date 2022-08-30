@@ -85,7 +85,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-18", "6-18\6-18.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.5.3", "6.5.3\6.5.3.csproj", "{8A73C121-02F6-4620-888E-90ECC34D75FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBConnect", "DBConnect\DBConnect.csproj", "{B3AA6D7B-A49E-4931-9EE3-D5653C002E7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-47", "DBConnect\6-47.csproj", "{B3AA6D7B-A49E-4931-9EE3-D5653C002E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Db", "Db\Db.csproj", "{8492B3B8-0E75-47BE-AC1B-855119E6A8E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,10 @@ Global
 		{B3AA6D7B-A49E-4931-9EE3-D5653C002E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3AA6D7B-A49E-4931-9EE3-D5653C002E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3AA6D7B-A49E-4931-9EE3-D5653C002E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8492B3B8-0E75-47BE-AC1B-855119E6A8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8492B3B8-0E75-47BE-AC1B-855119E6A8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8492B3B8-0E75-47BE-AC1B-855119E6A8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8492B3B8-0E75-47BE-AC1B-855119E6A8E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
